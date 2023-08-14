@@ -1,4 +1,3 @@
-# Data_survey_Visualization
 # "Data Professional Survey Report"
 
 <div align="center">
